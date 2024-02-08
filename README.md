@@ -1,4 +1,4 @@
-<h1 align="center">Todo App</h1>
+<h1 align="center">Organo</h1>
 
 ![Badge](https://img.shields.io/badge/Finished-darkgreen?style=for-the-badge&logo=finished5&logoColor=white)
 ![Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
